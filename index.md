@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## News is Coming - 消息来了「微信公众号」
 
-You can use the [editor on GitHub](https://github.com/NamoWang/newsiscoming.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 简介
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+消息来了「微信公众号」是一个分享实时热点新闻的交流平台： 
+「早报」每日10条新鲜资讯，以“精”、“简”、图文并茂为原则推送当下最热新闻资讯；
+「关注」有记忆的新闻，持续追踪热点新闻。
 
 ```markdown
 Syntax highlighted code block
